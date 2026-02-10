@@ -1,2 +1,1 @@
-# advanced-3d-landing
-Advanced 3D animated landing page using Three.js, GSAP and Vite. Includes responsive layout, accessibility, and tests.
+# Advanced 3D Landing\n\nA minimal scaffold for an advanced landing page with 3D animations using Three.js and GSAP.\n\nGetting started:\n\n1. npm install\n2. npm run dev\n\nBuild:\n\nnpm run build\n\nTesting:\n\nnpm run test\n\nThis project is scaffolded for performance and progressive enhancement. The 3D scene lives in src/scene.js and is mounted in src/main.js.\n
